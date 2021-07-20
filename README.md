@@ -5,3 +5,6 @@
 # 厲害的技術人員開講- 神經網路優化技巧
 #  https://aigo.org.tw/zh-tw/onlinecourse/535
 
+#  AI Hub
+# https://aihub.org.tw/platform/
+
